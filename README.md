@@ -1,8 +1,8 @@
 # Harvard University CS50X Introduction to CS
 
-=== GitHub free 500 MB Online Storage ===
-https://github.com/settings/repositories
-https://github.com/settings/billing
+=== GitHub free 500 MB Online Storage ===<br>
+https://github.com/settings/repositories<br>
+https://github.com/settings/billing<br>
 
 === Communities ===
 https://cs50.harvard.edu/x/2022/communities/
